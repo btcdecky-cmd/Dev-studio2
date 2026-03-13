@@ -26,6 +26,7 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] Integrated Helius and Bags.fm APIs in generated code
 - [x] Added automatic package installation commands in responses
 - [x] Added navigation link to AI builder on homepage
+- [x] Updated homepage hero section with Dev Studio branding
 
 ## Current Structure
 
