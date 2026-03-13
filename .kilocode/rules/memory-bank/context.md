@@ -14,6 +14,8 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] ESLint configuration
 - [x] Memory bank documentation
 - [x] Recipe system for common features
+- [x] First production build successful
+- [x] tsconfig.json updated by Next.js build process
 
 ## Current Structure
 
@@ -85,3 +87,4 @@ export async function GET() {
 | Date | Changes |
 |------|---------|
 | Initial | Template created with base setup |
+| Fri Mar 13 2026 | First build run, tsconfig updated and committed |
