@@ -28,9 +28,14 @@ export default function Home() {
         <section style={{ textAlign: 'center' }}>
           <h2 style={{ fontSize: '2rem', fontWeight: 'bold', marginBottom: '1rem' }}>Get Started</h2>
           <p style={{ fontSize: '1.125rem', marginBottom: '2rem' }}>Start building your application with this clean foundation.</p>
-          <button style={{ backgroundColor: '#059669', color: 'white', padding: '0.75rem 1.5rem', borderRadius: '0.5rem', border: 'none', fontSize: '1rem', cursor: 'pointer' }}>
-            Start Building
-          </button>
+          <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
+            <a href="/builder" style={{ backgroundColor: '#059669', color: 'white', padding: '0.75rem 1.5rem', borderRadius: '0.5rem', textDecoration: 'none', fontSize: '1rem', display: 'inline-block' }}>
+              Use AI Builder
+            </a>
+            <button style={{ backgroundColor: '#047857', color: 'white', padding: '0.75rem 1.5rem', borderRadius: '0.5rem', border: 'none', fontSize: '1rem', cursor: 'pointer' }}>
+              Explore Features
+            </button>
+          </div>
         </section>
       </div>
     </main>
