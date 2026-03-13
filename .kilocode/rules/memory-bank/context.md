@@ -20,6 +20,11 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] Replaced Tailwind classes with inline styles for preview compatibility
 - [x] Enhanced homepage with light green theme and comprehensive content
 - [x] Fixed tsconfig.json to resolve standalone typecheck errors
+- [x] Installed Solana, Helius, Bags.fm, and OpenAI packages
+- [x] Created /builder page with text prompt input
+- [x] Implemented AI-powered backend for generating Solana projects
+- [x] Integrated Helius and Bags.fm APIs in generated code
+- [x] Added automatic package installation commands in responses
 
 ## Current Structure
 
@@ -94,4 +99,5 @@ export async function GET() {
 | Fri Mar 13 2026 | First build run, tsconfig updated and committed |
 | Fri Mar 13 2026 | Added welcome content to home page for better preview |
 | Fri Mar 13 2026 | Replaced Tailwind classes with inline styles to troubleshoot preview |
-| Fri Mar 13 2026 | Enhanced homepage with light green theme, fixed tsconfig, committed to GitHub
+| Fri Mar 13 2026 | Enhanced homepage with light green theme, fixed tsconfig, committed to GitHub |
+| Fri Mar 13 2026 | Built Solana project builder with AI, Helius, Bags.fm integrations
