@@ -11,7 +11,7 @@ export default function Home() {
           <h2 style={{ fontSize: '2rem', fontWeight: 'bold', marginBottom: '1rem' }}>Live Builder Activity</h2>
           <ul style={{ listStyle: 'none', padding: 0 }}>
             <li style={{ marginBottom: '1rem', padding: '1rem', backgroundColor: '#a7f3d0', borderRadius: '0.5rem' }}>
-              Zedek created project "Solana Trading Dashboard"
+              Zedek created project &ldquo;Solana Trading Dashboard&rdquo;
             </li>
             <li style={{ marginBottom: '1rem', padding: '1rem', backgroundColor: '#a7f3d0', borderRadius: '0.5rem' }}>
               Token SWAN launched
