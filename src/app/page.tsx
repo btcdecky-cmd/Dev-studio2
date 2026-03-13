@@ -8,19 +8,19 @@ export default function Home() {
         </header>
 
         <section style={{ marginBottom: '3rem' }}>
-          <h2 style={{ fontSize: '2rem', fontWeight: 'bold', marginBottom: '1rem' }}>Features</h2>
+          <h2 style={{ fontSize: '2rem', fontWeight: 'bold', marginBottom: '1rem' }}>Live Builder Activity</h2>
           <ul style={{ listStyle: 'none', padding: 0 }}>
             <li style={{ marginBottom: '1rem', padding: '1rem', backgroundColor: '#a7f3d0', borderRadius: '0.5rem' }}>
-              <strong>Next.js 16</strong> - Latest React framework with App Router
+              Zedek created project "Solana Trading Dashboard"
             </li>
             <li style={{ marginBottom: '1rem', padding: '1rem', backgroundColor: '#a7f3d0', borderRadius: '0.5rem' }}>
-              <strong>TypeScript</strong> - Type-safe development
+              Token SWAN launched
             </li>
             <li style={{ marginBottom: '1rem', padding: '1rem', backgroundColor: '#a7f3d0', borderRadius: '0.5rem' }}>
-              <strong>Tailwind CSS 4</strong> - Utility-first styling
+              Liquidity added
             </li>
             <li style={{ marginBottom: '1rem', padding: '1rem', backgroundColor: '#a7f3d0', borderRadius: '0.5rem' }}>
-              <strong>ESLint</strong> - Code quality and consistency
+              New feature: wallet connection
             </li>
           </ul>
         </section>
