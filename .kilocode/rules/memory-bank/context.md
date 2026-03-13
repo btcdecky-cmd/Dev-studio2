@@ -28,6 +28,7 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] Added navigation link to AI builder on homepage
 - [x] Updated homepage hero section with Dev Studio branding
 - [x] Replaced Features section with Live Builder Activity
+- [x] Added 'How the Platform Works' section with 3-step process
 
 ## Current Structure
 
