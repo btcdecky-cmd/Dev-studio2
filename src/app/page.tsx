@@ -25,6 +25,24 @@ export default function Home() {
           </ul>
         </section>
 
+        <section style={{ marginBottom: '3rem' }}>
+          <h2 style={{ fontSize: '2rem', fontWeight: 'bold', marginBottom: '1rem', textAlign: 'center' }}>How the Platform Works</h2>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '1.5rem' }}>
+            <div style={{ padding: '1.5rem', backgroundColor: '#a7f3d0', borderRadius: '0.5rem', textAlign: 'center' }}>
+              <h3 style={{ fontSize: '1.5rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>1. Create a Project</h3>
+              <p>Builders register and create their development project.</p>
+            </div>
+            <div style={{ padding: '1.5rem', backgroundColor: '#a7f3d0', borderRadius: '0.5rem', textAlign: 'center' }}>
+              <h3 style={{ fontSize: '1.5rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>2. Build in Public</h3>
+              <p>Track commits, updates, and blockchain activity.</p>
+            </div>
+            <div style={{ padding: '1.5rem', backgroundColor: '#a7f3d0', borderRadius: '0.5rem', textAlign: 'center' }}>
+              <h3 style={{ fontSize: '1.5rem', fontWeight: 'bold', marginBottom: '0.5rem' }}>3. Launch and Grow</h3>
+              <p>Share your progress and attract users and supporters.</p>
+            </div>
+          </div>
+        </section>
+
         <section style={{ textAlign: 'center' }}>
           <h2 style={{ fontSize: '2rem', fontWeight: 'bold', marginBottom: '1rem' }}>Get Started</h2>
           <p style={{ fontSize: '1.125rem', marginBottom: '2rem' }}>Start building your application with this clean foundation.</p>
