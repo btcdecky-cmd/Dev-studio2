@@ -34,6 +34,7 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] Integrated Bags.fm token launch functionality (placeholder)
 - [x] Integrated Meteora DAMM v2 liquidity provision (placeholder)
 - [x] Built real working launchpad dashboard
+- [x] Fixed hydration mismatch in builder textarea
 
 ## Current Structure
 
