@@ -25,6 +25,7 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] Implemented AI-powered backend for generating Solana projects
 - [x] Integrated Helius and Bags.fm APIs in generated code
 - [x] Added automatic package installation commands in responses
+- [x] Added navigation link to AI builder on homepage
 
 ## Current Structure
 
