@@ -3,8 +3,8 @@ export default function Home() {
     <main style={{ minHeight: '100vh', backgroundColor: '#d1fae5', color: '#065f46', padding: '2rem' }}>
       <div style={{ maxWidth: '800px', margin: '0 auto' }}>
         <header style={{ textAlign: 'center', marginBottom: '3rem' }}>
-          <h1 style={{ fontSize: '3rem', fontWeight: 'bold', marginBottom: '1rem' }}>Welcome to Next.js</h1>
-          <p style={{ fontSize: '1.25rem', color: '#047857' }}>A minimal starter template with modern tools</p>
+          <h1 style={{ fontSize: '3rem', fontWeight: 'bold', marginBottom: '1rem' }}>Build in public. Track your progress. Launch on Solana.</h1>
+          <p style={{ fontSize: '1.25rem', color: '#047857' }}>Dev Studio is a real-time builder platform where developers create projects, track on-chain activity, and showcase what they are building.</p>
         </header>
 
         <section style={{ marginBottom: '3rem' }}>
