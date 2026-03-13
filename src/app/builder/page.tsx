@@ -46,6 +46,7 @@ export default function Builder() {
               resize: 'vertical'
             }}
             required
+            suppressHydrationWarning={true}
           />
           <button
             type="submit"
